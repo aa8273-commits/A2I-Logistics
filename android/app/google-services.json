@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "427430050493",
+    "project_id": "logistices-460a0",
+    "storage_bucket": "logistices-460a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427430050493:android:0550d8a713ef8805ab15d4",
+        "android_client_info": {
+          "package_name": "com.example.a2i_logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427430050493-h7roh4deus62f0vjj4eah9p8j9rijdku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2i_logistics",
+            "certificate_hash": "986efd8ec134098124dd392033458c59a4b0b4e7"
+          }
+        },
+        {
+          "client_id": "427430050493-6mhhllse7sek0g91pemosud4ip3ua8ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzBplEjUDu0GhmFCeyOS_crWbEUw6s0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427430050493-6mhhllse7sek0g91pemosud4ip3ua8ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427430050493-bmbq7ggnr7era5u8mllr6vefdic5r7ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.a2iLogistics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
